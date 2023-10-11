@@ -1,7 +1,7 @@
 # Assigment2_Toannguyen
 Toan HW2for CSI303
 
-Name: Nguyen Quy Toan (TOM) Date: 9/11/2023
+Name: Nguyen Quy Toan (TOM) Date: 10/10/2023
 
 How to use my code: Just put the code clone the code into Visual Studio and it automatically runs for you with the data that I already gave.
 
